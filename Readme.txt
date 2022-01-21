@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Admin Panel - white Version
+---------------------------
+Admin panel dengan background putih dan memiliki berbagai komponen yang dapat digunakan untuk melengkapi pembuatan web kalian !!! 
